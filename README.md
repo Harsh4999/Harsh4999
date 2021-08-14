@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://marvel-b1-cdn.bc0a.com/f00000000225793/blog-c7ff.kxcdn.com/blog/wp-content/uploads/2015/11/blog_dev-01-1.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 
 <h1 align="center">Hi 👋, I'm Harsh Trivedi</h1>
