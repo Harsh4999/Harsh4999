@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh4999&label=Profile%20views&color=0041ff&style=flat" alt="harsh4999" /> </p>
 
-<p>  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh4999" alt="harsh4999" /></a> </p>
+<p align="left">  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh4999" alt="harsh4999" /></a> </p>
 
 - 🔭 I’m currently working on [Spring Framework](https://github.com/Harsh4999/Spring_JPA)
 
