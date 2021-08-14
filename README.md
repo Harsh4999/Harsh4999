@@ -46,5 +46,5 @@
 <a href="https://github.com/harsh4999?tab=followers"><img src="https://img.shields.io/github/followers/harsh4999?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
-
+<a href="https://github.com/harsh4999/github-readme-activity-graph"><img alt="Harsh Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=harsh4999&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
