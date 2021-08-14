@@ -39,11 +39,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh4999&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="harsh4999" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh4999&theme=dark" alt="harsh4999" /></p>
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=mrsunss">
-</a>
-<a href="https://github.com/harsh4999?tab=followers"><img src="https://img.shields.io/github/followers/harsh4999?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
 
 <a href="https://github.com/harsh4999/github-readme-activity-graph"><img alt="Harsh Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=harsh4999&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
