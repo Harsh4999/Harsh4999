@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harsh4999](https://github.com/Harsh4999)
 
-- 💬 Ask me about **Programming Stuff!!**
+- 💬 Ask me about **Programming Stuff & Music :)**
 
 - 📫 How to reach me **trivediharsh49@gmail.com**
 
@@ -43,4 +43,5 @@
 
 
 <a href="https://github.com/harsh4999/github-readme-activity-graph"><img alt="Harsh Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=harsh4999&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 
