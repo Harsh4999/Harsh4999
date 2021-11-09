@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **trivediharsh49@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13Z3qVcRjdrBNw8_afhsraGLZTt9A4NTu/view?usp=sharing](https://drive.google.com/file/d/13Z3qVcRjdrBNw8_afhsraGLZTt9A4NTu/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/13wQIuzR5HS175hCDK4Nds3QFFKddhYeR/view?usp=sharing](https://drive.google.com/file/d/13wQIuzR5HS175hCDK4Nds3QFFKddhYeR/view?usp=sharing)
 
 - ⚡ Fun fact **Video Editing is one of my hidden talents.**
 
