@@ -58,6 +58,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"></code>
+<code><img height="40" src="https://commons.wikimedia.org/wiki/File:Visual_Studio_Code_1.35_icon.svg"></code>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh4999&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="harsh4999" /></p>
