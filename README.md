@@ -28,7 +28,7 @@
  -->
 
 
-<h3 align="center">Languages</h3>
+<h3 align="center" style="color=#40cfcd;">Languages</h3>
 <div align="center">
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
