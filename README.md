@@ -1,31 +1,6 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Yanone+Kaffeesatz&color=40cfcd&size=64&center=true&vCenter=true&width=1000&height=200&lines=Hi+%F0%9F%91%8B%2C+I'm+Harsh%2C;A+passionate+full+stack+developer+from+India.)](https://git.io/typing-svg)
-<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Harsh Trivedi</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3> -->
-<!-- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh4999&label=Profile%20views&color=0041ff&style=flat" alt="harsh4999" /> </p> -->
-
-<!--<p align="center">  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsh4999" alt="harsh4999" /></a> </p>-->
-<!-- 
-- 🔭 I’m currently working on [Spring Framework](https://github.com/Harsh4999/Spring_JPA)
-
-- 🌱 I’m currently learning **Spring & Nodejs**
-
-- 👯 I’m looking to collaborate on [Backend](https://github.com/Harsh4999/Registration_Form)
-
-- 🤝 I’m looking for help with **Web Devlopment**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Harsh4999](https://github.com/Harsh4999)
-
-- 💬 Ask me about **Programming Stuff & Music :)**
-
-- 📫 How to reach me **trivediharsh49@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/13wQIuzR5HS175hCDK4Nds3QFFKddhYeR/view?usp=sharing](https://drive.google.com/file/d/13wQIuzR5HS175hCDK4Nds3QFFKddhYeR/view?usp=sharing)
-
-- ⚡ Fun fact **Video Editing is one of my hidden talents.**
- -->
 
 
 <h3 align="center" style="color=#40cfcd;">Languages</h3>
