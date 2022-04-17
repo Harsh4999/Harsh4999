@@ -20,7 +20,7 @@
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/electronjs.svg"></code>
- <code><img height="40" src="https://en.sfml-dev.org/forums/index.php?action=dlattach;attach=663;type=avatar"></code>
+ <code><img height="40" src="http://i.imgur.com/pcjwzVl.png"></code>
 
 </div>
 <hr>
