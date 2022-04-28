@@ -24,16 +24,7 @@
 
 </div>
 <hr>
-<!-- <h3 align="left">Tools:</h3>
 
-<code><img height="40" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/72/eclipse-icon.png"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Icon-Vim.svg/256px-Icon-Vim.svg.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"></code>
-<code><img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"></code> -->
 
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh4999&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="harsh4999" /></p>
