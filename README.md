@@ -21,7 +21,7 @@
 <code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/electronjs.svg"></code>
  <code><img height="40" src="http://i.imgur.com/pcjwzVl.png"></code>
-
+ <code><img height="40" src="https://www.svgrepo.com/show/331370/docker.svg"></code>
 </div>
 <hr>
 
