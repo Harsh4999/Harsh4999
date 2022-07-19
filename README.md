@@ -45,9 +45,6 @@
 &nbsp;&nbsp;
 <a href="https://twitter.com/Harsh49999?t=4hXUDy1ftRR_NZz3EUulqw&s=09"><img height="40" src="https://img.icons8.com/office/40/000000/twitter.png"/></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/harsh-trivedi-ba0752144/"><img alt="LinkedIn" height="40" width="40" src="https://img.icons8.com/ultraviolet/40/000000/linkedin.png"/></a>
-
-
-
 </p>                   
 
 
