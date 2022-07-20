@@ -34,14 +34,15 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Harsh4999&theme=react&background=0d1117&border=666">
   </a>
   <br>
+  <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh4999&layout=compact&theme=github_dark ">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh4999&layout=compact&theme=github_dark&border=666">
   </a>
+  <br>
   <br>
   <a href="https://github.com/warunicorn19/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=Harsh4999&theme=react-dark&hide_border=true">
   </a>
-  <br>
 </p>
 
 
