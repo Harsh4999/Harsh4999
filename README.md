@@ -34,10 +34,17 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Harsh4999&theme=react&background=0d1117&border=666">
   </a>
   <br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh4999&layout=compact&theme=github_dark ">
+  </a>
+  <br>
   <a href="https://github.com/warunicorn19/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=Harsh4999&theme=react-dark&hide_border=true">
   </a>
+  <br>
 </p>
+
+
 
 <hr>
  <h3 align = "center">📬 Contact Me:</h3>
@@ -46,5 +53,9 @@
 <a href="https://twitter.com/Harsh49999?t=4hXUDy1ftRR_NZz3EUulqw&s=09"><img height="40" src="https://img.icons8.com/office/40/000000/twitter.png"/></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/harsh-trivedi-ba0752144/"><img alt="LinkedIn" height="40" width="40" src="https://img.icons8.com/ultraviolet/40/000000/linkedin.png"/></a>
 </p>                   
+
+ 
+ 
+ 
 
 
