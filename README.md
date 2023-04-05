@@ -23,7 +23,7 @@
  <code><img height="40" src="http://i.imgur.com/pcjwzVl.png"></code>
  <code><img height="40" src="https://www.svgrepo.com/show/331370/docker.svg"></code>
   <code><img height="40" src="https://img.icons8.com/color/344/amazon-web-services.png"></code>
-<!--   <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png?20160212050515"></code> -->
+
   
 </div>
 <hr>
