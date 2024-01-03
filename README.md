@@ -23,6 +23,7 @@
  <code><img height="40" src="http://i.imgur.com/pcjwzVl.png"></code>
  <code><img height="40" src="https://www.svgrepo.com/show/331370/docker.svg"></code>
   <code><img height="40" src="https://img.icons8.com/color/344/amazon-web-services.png"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /></code>
 
   
 </div>
